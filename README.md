@@ -4,7 +4,7 @@ repair what others think is broken. I enjoy coding and figuring out how the prog
 to the computer and other services.Currently I have a wiped Mac OS that I've been trying 
 to reinstall the OS on from the terminal but I keep getting command not found. It's running 
 bash 3.2 and I have a windows keyboard. It's the command not found issue. Just boaught a domain
-and will be sharing code very soon. I enjoy my job a Blackboard and hope to some day work on the LMS coding.
+and will be sharing code very soon. I enjoy my job at Blackboard and hope to some day work on the LMS coding.
 - 🌱 Bachelor's in computer science in information technology with a special interest in website development.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me jennross436@gmail.com; jenniferross156@student.ctuonline.edu.
